@@ -8,5 +8,3 @@ Welcome to our online store! This simple eCommerce website allows you to browse 
 ✅ Checkout securely.
 ✅ Receive order confirmation via email.
 
-# git_ecommerce
-GIT tutorial project
